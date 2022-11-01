@@ -1,2 +1,6 @@
 # Paiges-Projects
-A list of future or upcoming projects i am planning on getting to eventually
+This is a list of future or upcoming projects I am planning on getting to eventually.
+
+
+
+- A Offline Browser
